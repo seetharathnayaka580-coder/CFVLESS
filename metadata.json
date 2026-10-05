@@ -1,0 +1,6 @@
+{
+  "name": "Cloudflare Worker VLESS Generator",
+  "description": "Serverless V2Ray / VLESS node configuration studio, Cloudflare Worker script generator, subscription builder, and client config exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
